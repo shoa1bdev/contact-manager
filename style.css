@@ -36,7 +36,7 @@ body, html {
 	transform: translate(-50%,-50%);
 	width: 360px;
 	height: 600px;
-	background: url('/macos.jpg');
+	background: url('./img/macos.jpg');
 	background-size: cover;
 	background-position: center;
 	border-radius: var(--radius);
