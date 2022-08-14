@@ -101,7 +101,7 @@ const addContact = () => {
     const addressInputValue = document.querySelector('.new-address').value;
     const noteInputValue = document.querySelector('.new-note').value;
 
-    if (nameInput == '' || mobileInput == '') {
+    if (nameInputValue == '' || mobileInputValue == '') {
     	alert("Name and Mobile Cannot be Empty");
     } else {
         const newContact = {
