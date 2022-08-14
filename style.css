@@ -276,7 +276,7 @@ i {
 		border-bottom-right-radius: 0;
 	}
 	.nav.visible {
-		height: 100%;
+		height: 90%;
 	}
 	.close {
          top: 20px;
